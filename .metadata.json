@@ -1,5 +1,9 @@
 [
   {
+    "package": "codebookr",
+    "oncran": true
+  },
+  {
     "package": "freqtables",
     "oncran": true
   }
