@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "codebookr"]
 	path = codebookr
 	url = https://github.com/brad-cannell/codebookr
-	shallow = true
-	registered = true
 [submodule "freqtables"]
 	path = freqtables
 	url = https://github.com/brad-cannell/freqtables
-	shallow = true
-	registered = true
